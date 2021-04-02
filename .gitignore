@@ -1,0 +1,13 @@
+.history
+.git
+hooks
+node_modules
+.eslintrc.json
+tmp*
+temp/
+old/
+output/
+GPATH
+GRTAGS
+GTAGS
+temp*/
