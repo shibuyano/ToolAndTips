@@ -1,0 +1,2 @@
+# VBS_CopyFileLinkSourceToLocal
+リンクファイルのソースファイルをローカルにコピーします。
